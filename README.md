@@ -87,7 +87,7 @@ Comparing the highest- and lowest-density neighbourhoods revealed more than a tw
 - Median neighborhood has 166.57 hydrants per km².
 - 79.45% of every neighborhood is within 100m of a hydrant.
 
-![NYC hydrant density choropleth]()
+![NYC hydrant density choropleth](https://github.com/SabahSabaghy/hydrant_coverage_NYC/blob/main/Figures/density_choropleth.png)
 
 ## How to run it
 
