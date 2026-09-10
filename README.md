@@ -112,7 +112,7 @@ jupyter lab analysis.ipynb
 
 ## What I learned
 
-[Two or three sentences. Be specific about which step was harder than expected and what you'd do differently. Do not skip this section.]
+Reproducing the workflow in both PostGIS and Python reinforced my understanding that the same GIS principles apply across different technologies, while highlighting the strengths of each approach. The most challenging step was implementing the 100 m coverage analysis in GeoPandas, which required careful management of spatial indexes, dataframe relationships, and polygon intersections compared to the more streamlined PostGIS workflow. If I were to do the project again, I would build a fully parameterised and reusable pipeline from the start and add automated validation checks to compare Python and PostGIS outputs throughout the analysis.
 
 ## Stack
 
